@@ -30,4 +30,4 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />  <br />
 
 
-![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api/?username=sahilgupta912&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<p>![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api/?username=sahilgupta912&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)</p>
