@@ -17,7 +17,8 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: ... 
 -->
 
-<h2> Connect with me:</h2><a href="https://www.linkedin.com/in/sahil-gupta912/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sahil-gupta912" height="30" width="40" /></a>
+# Connect with me:  
+  <a href="https://www.linkedin.com/in/sahil-gupta912/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sahil-gupta912" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sahil_gupta912/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sahil_gupta912" height="30" width="40" /></a>
 
 
