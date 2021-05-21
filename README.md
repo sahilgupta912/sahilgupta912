@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋 I'm Sahil Gupta</h1>  
 
-## I'm a Student and a Developer !  
+### I'm a Student and a Developer !  
 
 - 🌱 I’m currently learning Android Development.
 - 📫 How to reach me: **sahilgupta912@gmail.com**
