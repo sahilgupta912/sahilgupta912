@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋 I'm Sahil Gupta</h1>  
 
-<h2> I'm a Student and a Developer ! </h2>
+## I'm a Student and a Developer !
 - 🌱 I’m currently learning Android Development.
 - 📫 How to reach me: **sahilgupta912@gmail.com**
 <!-- 
@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ... 
 -->
 
-## Connect with me:
+### Connect with me:
 
 <a href="https://linkedin.com/in/sahil-gupta912/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sahil-gupta912" height="30" width="40" /></a>
 <a href="https://instagram.com/sahil_gupta912/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sahil_gupta912" height="30" width="40" /></a>
