@@ -17,8 +17,5 @@ Here are some ideas to get you started:-->
 -->
 
 ### Connect with me:
-
-[<img align="left" alt="sahilgupta912 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="sahil_gupta912 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+<a href="https://www.linkedin.com/in/sahil-gupta912/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sahil-gupta912" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sahil_gupta912/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sahil_gupta912" height="30" width="40" /></a>
