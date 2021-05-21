@@ -30,4 +30,4 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
-<img align="center" src=" https://github-readme-stats.vercel.app/api?username=sahilgupta912&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark" alt="sahilgupta912" />
+[dark]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
