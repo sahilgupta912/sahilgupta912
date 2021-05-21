@@ -1,4 +1,4 @@
-### Hello there, I'm Sahil Gupta 👋  
+<h1 align="center">Hello there 👋 I'm Sahil Gupta</h1>  
 
 ### I'm a Student and a Developer!
 
