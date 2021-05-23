@@ -1,4 +1,5 @@
-<h1 align="center">Hello there 👋 My name is Sahil Gupta</h1>  
+<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ My name is Sahil Gupta</h1>  
 
 ### I'm a Student and a Developer !  
 
