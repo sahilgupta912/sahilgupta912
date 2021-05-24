@@ -34,4 +34,5 @@
 <p><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"></p>
 
+<br>
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api/?username=sahilgupta912&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
