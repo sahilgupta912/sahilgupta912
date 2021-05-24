@@ -17,8 +17,10 @@
 
 ### Connect with me:
 
-<a href="https://linkedin.com/in/sahil-gupta912/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sahil-gupta912" height="30" width="40" /></a>
-<a href="https://instagram.com/sahil_gupta912/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sahil_gupta912" height="30" width="40" /></a>  
+
+<p align="center"><a href="https://linkedin.com/in/sahil-gupta912/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
+<a href="https://instagram.com/sahil_gupta912/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a></p>
+
 
 <img align="right" src="gif_git.jpg" alt="gif" width="400" height="270">
 
