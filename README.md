@@ -19,7 +19,7 @@
 <p align="center"><a href="https://linkedin.com/in/sahil-gupta912/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
 <a href="https://instagram.com/sahil_gupta912/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a></p>
 
-<img align="right" src="gif_git.jpg" alt="gif" width="450" height="310" margin-top="50"><br />
+<img align="right" src="gif_git.jpg" alt="gif" width="450" height="310" margin-top="50">
 
 ## 🛠️ **Languages & Tools:**
 
@@ -32,6 +32,6 @@
 <p><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VScode">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></p>
 <p><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"></p>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"></p><br />
 
 ![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api/?username=sahilgupta912&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
